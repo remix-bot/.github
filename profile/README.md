@@ -18,4 +18,6 @@ Get Remix bot for your server [from revolt](https://app.revolt.chat/bot/01FVB28W
 |[@ShadowLp4](https://github.com/ShadowLp174)|Lead Developer|[revolt](https://github.com/remix-bot/revolt)|
 |[@Fantic](https://github.com/fanticwastaken)|Developer|[revolt](https://github.com/remix-bot/revolt)|
 
+---
+
 [**Remix**](https://remix.fairuse.org) &copy; 2019 - 2023
