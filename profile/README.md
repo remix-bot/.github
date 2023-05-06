@@ -19,11 +19,11 @@ We are currently 5 people working on [Remix project](https://github.com/remix-bo
 
 |Username|Role(s)|Project|
 |---|---|:-:|
-|[@NoLogicAlan](https://github.com/NoLogicAlan)|Lead Bot Developer|[revolt](https://github.com/remix-bot/revolt)|
-|[@ShadowLp4](https://github.com/ShadowLp174)|Lead Bot Developer|[revolt](https://github.com/remix-bot/revolt)|
-|[@fanticwastaken](https://github.com/fanticwastaken)|Bot Developer|[revolt](https://github.com/remix-bot/revolt)|
-|[@objectionkink](https://github.com/objectionkink)|Bot Developer|[revolt](https://github.com/remix-bot/revolt)|
-|[@ophx](https://github.com/ophx)|Web Developer|[revolt](https://github.com/remix-bot/revolt)|
+|[@NoLogicAlan](https://github.com/NoLogicAlan)|Lead Bot Developer|[Remix Bot & Website Design](https://github.com/remix-bot/revolt)|
+|[@ShadowLp4](https://github.com/ShadowLp174)|Lead Bot Developer|[Remix Full Stack](https://github.com/remix-bot/revolt)|
+|[@fanticwastaken](https://github.com/fanticwastaken)|Bot Developer|[Remix](https://github.com/remix-bot/revolt)|
+|[@objectionkink](https://github.com/objectionkink)|Bot Developer|[Remix](https://github.com/remix-bot/revolt)|
+|[@ophx](https://github.com/ophx)|Web Developer|[Remix Website Design](https://github.com/remix-bot/revolt/tree/main/dashboard)|
 
 ---
 
