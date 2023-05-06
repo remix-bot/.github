@@ -1,6 +1,6 @@
 ## Remix
 
-**Remix** is a first open-source music bot under development for Revolt. You can find links to useful resources about the project below.
+**Remix** is a first open-source music bot under development for Revolt and formely known on Discord. You can find links to useful resources about the project below.
 
 # Useful Links
 
