@@ -17,6 +17,7 @@ Get Remix bot for your server [from revolt](https://app.revolt.chat/bot/01FVB28W
 |[@NoLogicAlan](https://github.com/NoLogicAlan)|Lead Bot Developer|[revolt](https://github.com/remix-bot/revolt)|
 |[@ShadowLp4](https://github.com/ShadowLp174)|Lead Bot Developer|[revolt](https://github.com/remix-bot/revolt)|
 |[@Fantic](https://github.com/fanticwastaken)|Bot Developer|[revolt](https://github.com/remix-bot/revolt)|
+|[@objectionkink](https://github.com/objectionkink)|Bot Developer|[revolt](https://github.com/remix-bot/revolt)|
 |[@ophx](https://github.com/ophx)|Website Developer|[revolt](https://github.com/remix-bot/revolt)|
 
 ---
