@@ -5,6 +5,7 @@
 # Links
 
 - ### [🌐 Website](https://remix.fairuse.org): The Remix website.
+- ### [🌐 Support Server](https://app.revolt.chat/invite/Remix): Remix support server.
 - ### [💰 Sponsor Remix](https://github.com/sponsors/remix-bot): Help support the project.
 - ### [💻 Issue Tracker](https://github.com/orgs/remix-bot/projects/1/views/1): Full GitHub issue overview.
 
