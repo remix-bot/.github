@@ -5,13 +5,17 @@
 # Useful Links
 
 - ### [🌐 Website](https://remix.fairuse.org): The Remix website.
-- ### [❓ Support Server](https://app.revolt.chat/invite/Remix): Remix support server.
 - ### [💰 Sponsor Remix](https://github.com/sponsors/remix-bot): Help support the project.
 - ### [💻 Issue Tracker](https://github.com/orgs/remix-bot/projects/1/views/1): Full GitHub issue overview.
 
 # Get Remix
 
 Get Remix bot for your server from [Discord](https://discord.com/oauth2/authorize?client_id=808897601582923806&permissions=2184236096&scope=applications.commands%20bot) and [Revolt](https://app.revolt.chat/bot/01FVB28WQ9JHMWK8K7RD0F0VCW)!
+
+# Support Servers
+
+[Discord](https://discord.gg/3YABbWRP7z)
+[Revolt](https://rvlt.gg/Remix)
 
 # Remix Team
 
