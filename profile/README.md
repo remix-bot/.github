@@ -1,4 +1,4 @@
-## Remix
+## [Remix](https://github.com/remix-bot)
 
 **Remix** is a first open-source music bot under development for Revolt. You can find links to useful resources about the project below.
 
