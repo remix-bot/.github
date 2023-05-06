@@ -1,12 +1,19 @@
-## Hi there 👋
+**Remix** is a first open-source music bot under development for Revolt. You can find links to useful resources about the project below.
 
-<!--
+# Links
 
-**Here are some ideas to get you started:**
+- ### [🌐 Website](https://remix.fairuse.org/): The Remix website.
+- ### [💰 Donate to Remix](): Help support the project.
+- ### [💻 Issue Tracker](https://github.com/orgs/remix-bot/projects/1/views/1): Full GitHub issue overview.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Get Remix
+
+Get Remix bot for your server [from revolt](https://app.revolt.chat/bot/01FVB28WQ9JHMWK8K7RD0F0VCW)!
+
+# Remix Team
+
+|Username|Job(s)|Project|
+|---|---|:-:|
+|[@NoLogicAlan](https://github.com/NoLogicAlan)|Lead Developer|[revolt](https://github.com/remix-bot/revolt)|
+|[@ShadowLp4](https://github.com/ShadowLp174)|Lead Developer|[revolt](https://github.com/remix-bot/revolt)|
+|[@Fantic](https://github.com/fanticwastaken)|Developer|[revolt](https://github.com/remix-bot/revolt)|
