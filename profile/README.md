@@ -2,7 +2,7 @@
 
 # Links
 
-- ### [🌐 Website](https://remix.fairuse.org/): The Remix website.
+- ### [🌐 Website](https://remix.fairuse.org): The Remix website.
 - ### [💰 Donate to Remix](): Help support the project.
 - ### [💻 Issue Tracker](https://github.com/orgs/remix-bot/projects/1/views/1): Full GitHub issue overview.
 
@@ -17,3 +17,5 @@ Get Remix bot for your server [from revolt](https://app.revolt.chat/bot/01FVB28W
 |[@NoLogicAlan](https://github.com/NoLogicAlan)|Lead Developer|[revolt](https://github.com/remix-bot/revolt)|
 |[@ShadowLp4](https://github.com/ShadowLp174)|Lead Developer|[revolt](https://github.com/remix-bot/revolt)|
 |[@Fantic](https://github.com/fanticwastaken)|Developer|[revolt](https://github.com/remix-bot/revolt)|
+
+[**Remix**](https://remix.fairuse.org) &copy; 2019 - 2023
