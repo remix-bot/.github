@@ -25,4 +25,4 @@ Get Remix bot for your server [from revolt](https://app.revolt.chat/bot/01FVB28W
 
 ---
 
-[**Remix**](https://remix.fairuse.org) &copy; 2019 - 2023
+&copy; [**Remix**](https://remix.fairuse.org) | 2019 - 2023
