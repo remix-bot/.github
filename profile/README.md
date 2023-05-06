@@ -27,4 +27,4 @@ We are currently 5 people working on [Remix project](https://github.com/remix-bo
 
 ---
 
-&copy; [**Remix**](https://remix.fairuse.org) | 2019 - 2023
+&copy; 2023 [**Remix**](https://remix.fairuse.org)
