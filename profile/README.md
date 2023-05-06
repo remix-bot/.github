@@ -15,7 +15,7 @@ Get Remix bot for your server [from revolt](https://app.revolt.chat/bot/01FVB28W
 
 # Remix Team
 
-We are currently 5 people on the team working on Remix project!
+We are currently 5 people working on Remix project!
 
 |Username|Job(s)|Project|
 |---|---|:-:|
