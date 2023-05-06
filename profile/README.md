@@ -11,7 +11,7 @@
 
 # Get Remix
 
-Get Remix bot for your server [from revolt](https://app.revolt.chat/bot/01FVB28WQ9JHMWK8K7RD0F0VCW)!
+Get Remix bot for your server [from Revolt](https://app.revolt.chat/bot/01FVB28WQ9JHMWK8K7RD0F0VCW)!
 
 # Remix Team
 
