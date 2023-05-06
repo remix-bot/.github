@@ -14,8 +14,8 @@ Get Remix bot for your server from [Discord](https://discord.com/oauth2/authoriz
 
 # Support Servers
 
-[Discord](https://discord.gg/3YABbWRP7z)
-[Revolt](https://rvlt.gg/Remix)
+Discord: https://discord.gg/3YABbWRP7z
+Revolt: https://rvlt.gg/Remix
 
 # Remix Team
 
