@@ -15,7 +15,7 @@ Get Remix bot for your server from [Discord](https://discord.com/oauth2/authoriz
 
 # Remix Team
 
-We are currently 5 people working on [Remix project](https://github.com/remix-bot/revolt)!
+We are currently 5 people working on this project!
 
 |Username|Role(s)|Project|
 |---|---|:-:|
