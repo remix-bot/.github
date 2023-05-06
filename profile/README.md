@@ -23,7 +23,7 @@ We are currently 5 people working on Remix project!
 |[@ShadowLp4](https://github.com/ShadowLp174)|Lead Bot Developer|[revolt](https://github.com/remix-bot/revolt)|
 |[@fanticwastaken](https://github.com/fanticwastaken)|Bot Developer|[revolt](https://github.com/remix-bot/revolt)|
 |[@objectionkink](https://github.com/objectionkink)|Bot Developer|[revolt](https://github.com/remix-bot/revolt)|
-|[@ophx](https://github.com/ophx)|Website Developer|[revolt](https://github.com/remix-bot/revolt)|
+|[@ophx](https://github.com/ophx)|Web Developer|[revolt](https://github.com/remix-bot/revolt)|
 
 ---
 
