@@ -1,6 +1,4 @@
-<a href="https://github.com/remix-bot">
-<img src="https://i.imgur.com/CNpS0WX.png" alt="Logo" width="80" height="80">
-</a>
+## Remix
 
 **Remix** is a first open-source music bot under development for Revolt. You can find links to useful resources about the project below.
 
