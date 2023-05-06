@@ -9,3 +9,11 @@
 # Get Remix
 
 Get Remix bot for your server [from revolt](https://revolt.chat/download)!
+
+# Remix Team
+
+|Username|Job(s)|Project|
+|---|---|:-:|
+|[@NoLogicAlan](https://github.com/NoLogicAlan)|Lead Developer|[revolt](https://github.com/remix-bot/revolt)|
+|[@ShadowLp4](https://github.com/ShadowLp174)|Lead Developer|[revolt](https://github.com/remix-bot/revolt)|
+|[@Fantic](https://github.com/fanticwastaken)|Developer|[revolt](https://github.com/remix-bot/revolt)|
