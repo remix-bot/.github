@@ -2,8 +2,8 @@
 
 # Links
 
-- ### [🌍 Website](https://remix.fairuse.org/): The Remix website.
-- ### [💖 Donate to Remix](): Help support the project.
+- ### [🌐 Website](https://remix.fairuse.org/): The Remix website.
+- ### [💰 Donate to Remix](): Help support the project.
 - ### [💻 Issue Tracker](https://github.com/orgs/remix-bot/projects/1/views/1): Full GitHub issue overview.
 
 # Get Remix
