@@ -12,21 +12,21 @@
 
 Get Remix bot for your server on:
 
-Discord: [https://discord.com/remix](https://discord.com/oauth2/authorize?client_id=808897601582923806&permissions=2184236096&scope=applications.commands%20bot)
+Discord: [https://discord.com/Remix](https://discord.com/oauth2/authorize?client_id=808897601582923806&permissions=2184236096&scope=applications.commands%20bot)
 
-Guilded: [https://guilded.gg/remix](https://www.guilded.gg/b/8e52a7d2-ea37-40b5-96da-b1fcd506f138)
+Guilded: [https://guilded.gg/Remix](https://www.guilded.gg/b/8e52a7d2-ea37-40b5-96da-b1fcd506f138)
 
-Revolt: [https://revolt.chat/remix](https://app.revolt.chat/bot/01FVB28WQ9JHMWK8K7RD0F0VCW)
+Revolt: [https://revolt.chat/Remix](https://app.revolt.chat/bot/01FVB28WQ9JHMWK8K7RD0F0VCW)
 
 # Support Servers
 
 Our support servers on:
 
-Discord: https://discord.gg/3YABbWRP7z
+Discord: [https://discord.com/Remix-HQ](https://discord.gg/3YABbWRP7z)
 
-Guilded: https://www.guilded.gg/Remix-HQ
+Guilded: https://guilded.gg/Remix-HQ
 
-Revolt: https://rvlt.gg/Remix
+Revolt: [https://revolt.chat/Remix-HQ](https://rvlt.gg/Remix)
 
 # Remix Team
 
