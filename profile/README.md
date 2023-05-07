@@ -16,6 +16,8 @@ Get Remix bot for your server on [Discord](https://discord.com/oauth2/authorize?
 
 Discord: https://discord.gg/3YABbWRP7z
 
+Guilded: https://www.guilded.gg/Remix-HQ
+
 Revolt: https://rvlt.gg/Remix
 
 # Remix Team
