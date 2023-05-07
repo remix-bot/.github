@@ -12,9 +12,9 @@
 
 Get Remix bot for your server on:
 
-Discord: https://discord.com/oauth2/authorize?client_id=808897601582923806&permissions=2184236096&scope=applications.commands%20bot
+Discord: [https://discord.com/remix](https://discord.com/oauth2/authorize?client_id=808897601582923806&permissions=2184236096&scope=applications.commands%20bot)
 
-Guilded: https://www.guilded.gg/b/8e52a7d2-ea37-40b5-96da-b1fcd506f138
+Guilded: [https://guilded.gg/remix](https://www.guilded.gg/b/8e52a7d2-ea37-40b5-96da-b1fcd506f138)
 
 Revolt: [https://revolt.chat/remix](https://app.revolt.chat/bot/01FVB28WQ9JHMWK8K7RD0F0VCW)
 
