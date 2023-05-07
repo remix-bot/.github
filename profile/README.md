@@ -16,7 +16,7 @@ Get Remix bot for your server on:
 
 [Guilded](https://www.guilded.gg/b/8e52a7d2-ea37-40b5-96da-b1fcd506f138)
 
-[Revolt](https://app.revolt.chat/bot/01FVB28WQ9JHMWK8K7RD0F0VCW)!
+[Revolt](https://app.revolt.chat/bot/01FVB28WQ9JHMWK8K7RD0F0VCW)
 
 # Support Servers
 
