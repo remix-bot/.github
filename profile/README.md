@@ -20,6 +20,8 @@ Revolt: [https://revolt.chat/remix](https://app.revolt.chat/bot/01FVB28WQ9JHMWK8
 
 # Support Servers
 
+Our support servers on:
+
 Discord: https://discord.gg/3YABbWRP7z
 
 Guilded: https://www.guilded.gg/Remix-HQ
