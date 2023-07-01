@@ -37,8 +37,6 @@ We are currently 5 people working on this project!
 |[@NoLogicAlan](https://github.com/NoLogicAlan)|Lead Bot Developer|Remix Bot & Website Design|
 |[@ShadowLp4](https://github.com/ShadowLp174)|Lead Bot Developer|Remix Full Stack|
 |[@fanticwastaken](https://github.com/fanticwastaken)|Bot Developer & Community Manager|Remix Bot|
-|[@objectionkink](https://github.com/objectionkink)|Bot Developer|Remix Bot|
-|[@ophx](https://github.com/ophx)|Web Developer|Remix Website Design|
 
 ---
 
