@@ -30,7 +30,7 @@ Revolt: [https://revolt.chat/Remix-HQ](https://rvlt.gg/Remix)
 
 # Remix Team
 
-We are currently 5 people working on this project!
+We are currently 3 people working on this project!
 
 |Username|Role(s)|Project|
 |---|---|:-:|
