@@ -2,6 +2,8 @@
 
 **Remix**, formerly known as your music bot on Discord, is currently being developed for Revolt as the first open-source music bot. Below are connections to helpful resources for the project.
 
+Founded in 2019 by [@NoLogicAlan](https://github.com/NoLogicAlan) and [@fanticwastaken](https://github.com/fanticwastaken).
+
 # Useful Links
 
 - ### [🌐 Website](https://remix.fairuse.org): The Remix website.
