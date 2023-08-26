@@ -1,6 +1,6 @@
 ## Remix
 
-**Remix** is being developed for Revolt as the first open-source music bot. It was founded in 2019 by [@NoLogicAlan](https://github.com/NoLogicAlan) and [@fanticwastaken](https://github.com/fanticwastaken) and brought to Revolt by [@ShadowLp4](https://github.com/ShadowLp174) and which was once known as your music bot on Discord. Links to important project resources are provided below.
+**Remix** is being developed for Revolt as the first open-source music bot. It was founded in 2019 by [@NoLogicAlan](https://github.com/NoLogicAlan) and [@fanticwastaken](https://github.com/fanticwastaken) and brought to Revolt by [@ShadowLp174](https://github.com/ShadowLp174) and which was once known as your music bot on Discord. Links to important project resources are provided below.
 
 # Useful Links
 
