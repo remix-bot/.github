@@ -32,11 +32,11 @@ Revolt: [https://revolt.chat/Remix-HQ](https://rvlt.gg/Remix)
 
 We are currently 3 people working on this project!
 
-|Username|Role(s)|Project|
-|---|---|:-:|
-|[@NoLogicAlan](https://github.com/NoLogicAlan)|Lead Bot Developer|Remix Bot & Website Design|
-|[@ShadowLp174](https://github.com/ShadowLp174)|Lead Bot Developer|Remix Full Stack|
-|[@fanticwastaken](https://github.com/fanticwastaken)|Bot Developer & Community Manager|Remix Bot|
+|Username|Role(s)|
+|---|---|
+|[@NoLogicAlan](https://github.com/NoLogicAlan)|Lead Bot Developer|
+|[@ShadowLp174](https://github.com/ShadowLp174)|Lead Bot Developer|
+|[@fanticwastaken](https://github.com/fanticwastaken)|Bot Developer & Community Manager|
 
 ---
 
