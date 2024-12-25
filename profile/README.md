@@ -40,4 +40,4 @@ We are currently 3 people working on this project!
 
 ---
 
-&copy; 2023 Remix. All Rights Reserved.
+&copy; 2025 Remix. All Rights Reserved.
