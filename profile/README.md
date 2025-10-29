@@ -33,7 +33,3 @@ We are currently 3 people working on this project!
 |[@NoLogicAlan](https://github.com/NoLogicAlan)|Bot Developer|
 |[@ShadowLp174](https://github.com/ShadowLp174)|Bot Developer|
 |[@fanticwastaken](https://github.com/fanticwastaken)|Community Manager|
-
----
-
-&copy; 2025 Remix. All Rights Reserved.
