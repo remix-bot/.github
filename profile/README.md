@@ -12,8 +12,6 @@
 
 Get Remix bot for your server on:
 
-Discord: [https://discord.com/Remix](https://discord.com/oauth2/authorize?client_id=808897601582923806&permissions=2184236096&scope=applications.commands%20bot)
-
 Stoat: [https://stoat.chat/Remix](https://stoat.chat/bot/01FVB28WQ9JHMWK8K7RD0F0VCW)
 
 Fluxer: [https://fluxer.gg/Remix](https://web.fluxer.app/oauth2/authorize?client_id=1478084469635211806&scope=bot&permissions=3206208)
@@ -21,8 +19,6 @@ Fluxer: [https://fluxer.gg/Remix](https://web.fluxer.app/oauth2/authorize?client
 # Support Servers
 
 Our support servers on:
-
-Discord: [https://discord.com/Remix-HQ](https://discord.gg/3YABbWRP7z)
 
 Stoat: [https://stoat.chat/Remix-HQ](https://stt.gg/Remix)
 
