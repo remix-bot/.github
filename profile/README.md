@@ -22,7 +22,7 @@ Our support servers on:
 
 Stoat: [https://stoat.chat/Remix-HQ](https://stt.gg/Remix)
 
-Fluxer: [https://fluxer.gg/Remix-HQ](https://stt.gg/Remix)
+Fluxer: [https://fluxer.gg/Remix-HQ](https://fluxer.gg/Remix)
 
 # Remix Team
 
