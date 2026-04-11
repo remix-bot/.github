@@ -4,7 +4,7 @@
 
 # Useful Links
 
-- ### [🌐 Website](https://remix.fairway.cl): The Remix website.
+- ### [🌐 Website](https://remix-bot.com): The Remix website.
 - ### [💰 Sponsor Remix](https://ko-fi.com/remixbot): Help support the project.
 - ### [💻 Issue Tracker](https://github.com/orgs/remix-bot/projects/1/views/1): Full GitHub issue overview.
 
