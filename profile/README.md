@@ -31,5 +31,5 @@ We are currently 3 people working on this project!
 |Username|Role(s)|
 |---|---|
 |[@NoLogicAlan](https://github.com/NoLogicAlan)|Bot Developer|
-|[@ShadowLp174](https://github.com/ShadowLp174)|Bot Developer|
+|[@ShadowLp174](https://github.com/ShadowLp174)|Lead Developer|
 |[@fanticwastaken](https://github.com/fanticwastaken)|Community Manager|
